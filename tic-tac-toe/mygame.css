@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+
+td {
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  border: 5px solid black;
+  font-size: 100px;
+}
+
+p {
+  text-align: center;
+}

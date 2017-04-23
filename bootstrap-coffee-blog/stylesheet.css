@@ -1,0 +1,25 @@
+body {
+  background-color: #f4e2c3;
+}
+.jumbotron {
+  background-color: #b78b77;
+  text-align: justify;
+}
+
+p {
+  width: 1100px;
+  text-align: justify;
+  padding-left: 50px;
+  font-size: 1.5em;
+}
+
+#sign-in {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+form {
+  width: 75%;
+  margin: auto;
+  /*padding-bottom: 10px;*/
+}
